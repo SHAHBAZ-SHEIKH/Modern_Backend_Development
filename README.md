@@ -128,6 +128,4 @@ Students who want to:
 
 ---
 
-### 📦 Powered By
-**Suffah Tech Institute**  
-Empowering Future Developers 🚀
+
